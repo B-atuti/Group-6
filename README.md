@@ -1,3 +1,4 @@
+
 # Nova Portfolio
 
 A personal web portfolio for Tamia Nova, showcasing her work and skills as a Web Developer.
@@ -27,3 +28,4 @@ This portfolio website comprises various sections:
 
    ```bash
    git clone git@github.com:B-atuti/Group-6.git
+
